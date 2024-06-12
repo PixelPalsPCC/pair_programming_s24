@@ -27,7 +27,7 @@ web page: <a href="https://mlora00.github.io/AssignmentFour-SocialCoding" target
 <br>
 <br>
 team name: PixelPalsPCC<br>
-code link: <a href="https://orgs/PixelPalsPCC/repositories" target="_blank">repository</a><br>
+code link: <a href="https://github.com/PixelPalsPCC/pair_programming_s24" target="_blank">repository</a><br>
 web page: <a href="https://PixelPalsPCC.github.io/pair_programming_s24" target="_blank">open</a><br>
 <br>
 <br>
