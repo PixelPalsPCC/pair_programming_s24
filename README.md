@@ -1,3 +1,31 @@
 # pair_programming_s24
 
-George: <a href="https://pixelpalspcc.github.io/movingtype" target="_blank">https://pixelpalspcc.github.io/movingtype</a><br>
+team name: PixelPalsPCC
+code link: <a href="https://orgs/PixelPalsPCC/repositories" target="_blank">repositories</a>
+web page: <a href="[https://pixelpalspcc.github.io/movingtype](https://orgs/PixelPalsPCC/repositories)" target="_blank">project page</a>
+
+
+team name: PixelPalsPCC
+code link: <a href="https://orgs/PixelPalsPCC/repositories" target="_blank">repositories</a>
+web page: <a href="[https://pixelpalspcc.github.io/movingtype](https://orgs/PixelPalsPCC/repositories)" target="_blank">project page</a>
+
+
+team name: PixelPalsPCC
+code link: <a href="https://orgs/PixelPalsPCC/repositories" target="_blank">repositories</a>
+web page: <a href="[https://pixelpalspcc.github.io/movingtype](https://orgs/PixelPalsPCC/repositories)" target="_blank">project page</a>
+
+
+team name: PixelPalsPCC
+code link: <a href="https://orgs/PixelPalsPCC/repositories" target="_blank">repositories</a>
+web page: <a href="[https://pixelpalspcc.github.io/movingtype](https://orgs/PixelPalsPCC/repositories)" target="_blank">project page</a>
+
+
+team name: PixelPalsPCC
+code link: <a href="https://orgs/PixelPalsPCC/repositories" target="_blank">repositories</a>
+web page: <a href="[https://pixelpalspcc.github.io/movingtype](https://orgs/PixelPalsPCC/repositories)" target="_blank">project page</a>
+
+
+team name: PixelPalsPCC
+code link: <a href="https://orgs/PixelPalsPCC/repositories" target="_blank">repositories</a>
+web page: <a href="[https://pixelpalspcc.github.io/movingtype](https://orgs/PixelPalsPCC/repositories)" target="_blank">project page</a>
+
