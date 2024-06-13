@@ -9,7 +9,7 @@ web page: <a href="https://marcusleet2.github.io/Social_Coding_Team" target="_bl
 team name: Zaira-Ariel-Alice<br>
 code link: <a href="https://github.com/zz-22-t/socialcoding" target="_blank">repository</a><br>
 web page: <a href="https://zz-22-t.github.io/socialcoding/" target="_blank">open</a><br>
-https://github.com/PixelPalsPCC/pair_programming_s24/blob/main/neon.png
+<img src="https://github.com/PixelPalsPCC/pair_programming_s24/blob/main/neon.png">
 <br>
 <br>
 team name: Maddy-Erin-Eli<br>
